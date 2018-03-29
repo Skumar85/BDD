@@ -1,0 +1,7 @@
+.idea
+.settings
+ExtentReports
+Screenshots
+target
+test-output
+.classpath
