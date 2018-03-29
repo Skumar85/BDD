@@ -1,0 +1,8 @@
+com\test\utils\WaitMethods.class
+com\test\steps\Homepage_Step.class
+com\test\pages\ForecastPage.class
+weather_report_acceptance_test\weather_report_acceptance_test\App.class
+com\test\pages\HomePage.class
+com\test\steps\Forecast_Step.class
+com\test\runners\Runner.class
+com\test\hooks\Hooks.class
